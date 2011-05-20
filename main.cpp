@@ -1,5 +1,5 @@
 #include <QtGui>
-#include "../finetuningdialog.h"
+#include "finetuningdialog.h"
 
 int main(int argc, char* argv[])
 {
